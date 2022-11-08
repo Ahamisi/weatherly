@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
+## PROJECT DEMO
+## Sunny Temperature
+<img width="1440" alt="app-lagos" src="https://user-images.githubusercontent.com/42498219/200562260-8bc9fb0a-0c22-4fae-a7fa-1d10f71a334f.png">
+
+## Cloudy Temperature
+<img width="1440" alt="app-auckland" src="https://user-images.githubusercontent.com/42498219/200562417-ce0e4419-5e55-46d2-b657-1d13d9b8ba0b.png">
+
+Api supported By `https://rapidapi.com/apishub/api/yahoo-weather5`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
